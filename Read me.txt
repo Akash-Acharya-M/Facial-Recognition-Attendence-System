@@ -1,0 +1,6 @@
+Step 1: Extract this zip file to the same folder.
+Step 2: Make sure you run all the commands one by one in you command prompt given in the commands.txt
+step 3: Add the images of the people in a separate directory with their name in the known faces folder.
+step 4: open the main.py in your vs code or any python editor and navigate to time stamps and edit according during which the 	attendance will be marked.
+step 5: Compile and run. Press 'Q' to exit.
+	You can check attendance.csv for present status and unrecognised faces in a separate directory.
