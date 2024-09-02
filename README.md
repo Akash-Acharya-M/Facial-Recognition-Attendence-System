@@ -1,2 +1,2 @@
 # Facial-Recognition-Attendence-System
-An automatic Facial recognition attendance system using python
+Download the whole zip file and follow the steps in the steps.txt file
