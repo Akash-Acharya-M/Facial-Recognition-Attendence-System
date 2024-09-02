@@ -1,0 +1,5 @@
+pip install cmake
+pip install dlib
+pip install face-recognition
+
+Note: Install python from website or miscrosoft store and if dlib is unable to install use the file given in the zip file.
